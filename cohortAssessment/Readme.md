@@ -33,3 +33,33 @@ This website only shows fixed information (services, contact details and opening
 
 
 
+8. Evidences
+
+ VPC details showing the project CIDR.
+<img width="954" height="345" alt="image" src="https://github.com/user-attachments/assets/7ec8336d-d27f-458e-9430-d1cb2e2328ec" />
+
+ Public subnet details and its route table association.
+<img width="808" height="351" alt="image" src="https://github.com/user-attachments/assets/e40e3887-2aa8-497f-b038-ce3ebd3ba9ec" />
+
+Route table showing 0.0.0.0/0 to the Internet Gateway.
+<img width="959" height="368" alt="image" src="https://github.com/user-attachments/assets/294bb092-7ec3-423a-8ca5-72047ed82e2d" />
+
+ Security group inbound rules showing HTTP port 80 and no SSH port 22 rule.
+
+ <img width="956" height="284" alt="image" src="https://github.com/user-attachments/assets/cf8fd233-a9cb-4831-9fae-f19ec793ff7b" />
+
+
+EC2 instance running, with instance type, AMI, and EBS volume visible.
+<img width="800" height="338" alt="image" src="https://github.com/user-attachments/assets/f6d98165-06b8-4f5a-a0bd-99cb6057d8d8" />
+
+BrightPath Tutors website open in a browser using the instance public IPv4 address.
+
+<img width="952" height="472" alt="image" src="https://github.com/user-attachments/assets/a60c950a-65f6-4dc2-ab93-50254e8817b8" />
+
+Private S3 bucket with Block Public Access enabled and encryption shown.
+
+<img width="809" height="352" alt="image" src="https://github.com/user-attachments/assets/ba057ded-723d-4094-80da-96f69fe7ab9e" />
+
+
+
+
