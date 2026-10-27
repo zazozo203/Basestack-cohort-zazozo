@@ -60,6 +60,43 @@ Private S3 bucket with Block Public Access enabled and encryption shown.
 
 <img width="809" height="352" alt="image" src="https://github.com/user-attachments/assets/ba057ded-723d-4094-80da-96f69fe7ab9e" />
 
+ S3 versioning enabled and two versions of index.html visible.
 
+<img width="944" height="342" alt="image" src="https://github.com/user-attachments/assets/ba99f5e2-355b-449e-a61a-6493df9510ae" />
+
+ S3 lifecycle rule for prefix archive/ visible.
+
+ <img width="941" height="352" alt="image" src="https://github.com/user-attachments/assets/d728c0b8-eeaa-4d20-9415-d232ce3b83c6" />
+
+ EBS snapshot completed.
+
+<img width="940" height="340" alt="image" src="https://github.com/user-attachments/assets/a209faa0-a65e-4ea5-b319-fe9d9af27c83" />
+
+
+ CloudTrail Event history with one project event.
+
+
+ <img width="745" height="341" alt="image" src="https://github.com/user-attachments/assets/1e378963-c2d0-47bb-9b49-2d2b922c444a" />
+
+
+
+
+Cleanup proof: EC2 terminated, snapshot removed, bucket emptied/deleted, and networking resources removed.
+
+
+
+
+<img width="835" height="234" alt="image" src="https://github.com/user-attachments/assets/d1a7d0e2-8b14-48c8-aaa8-b426c4a5f247" />
+
+
+<img width="935" height="340" alt="image" src="https://github.com/user-attachments/assets/ad5e8095-0406-441b-a1c7-3c4f86ba2eb8" />
+
+
+<img width="812" height="347" alt="image" src="https://github.com/user-attachments/assets/c14550ed-08d5-49de-bd27-e574a7b02fc3" />
+
+
+
+
+<img width="955" height="342" alt="image" src="https://github.com/user-attachments/assets/8f46509f-bc6f-4929-b316-92dce27964e9" />
 
 
